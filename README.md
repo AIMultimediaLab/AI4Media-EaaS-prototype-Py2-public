@@ -10,3 +10,8 @@ This software is released under the Apache License 2.0 (the "License"); you may 
 
 The text of the Apache License 2.0 can be found online at:
 http://www.opensource.org/licenses/apache2.0.php
+
+
+
+## Acknowledgment 
+This work was supported by the European Commission under European Horizon 2020 Programme, grant number 951911 - AI4Media. It was made possible by the use of the FactoryIA supercomputer, financially supported by the Ile-de-France Regional Council.
